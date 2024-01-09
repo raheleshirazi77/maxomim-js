@@ -16,7 +16,7 @@ for (let i = 1; i < sum.length; i++) { // ba estefade az for and halghe yeki yek
         max = sum[i]; // agar true bode value ro dar sum variz konada
     }
 }
-document.write(max); // dar akhar value be dast omade ra namayesh dahad
+document.write('maxomim number: ' ,max); // dar akhar value be dast omade ra namayesh dahad
 
 // va tamaaaam tammmammmmm
  
