@@ -3,7 +3,7 @@
 #neme: **rahele shirazi**
 #name project:***maxomim-js***
 #use language programmer: **html**,**js**
-#methode use coding:***for***,***if***
+#methode use coding:***for***, ***if***
 */
 
 // start
